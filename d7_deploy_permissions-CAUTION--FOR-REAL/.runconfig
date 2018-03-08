@@ -1,0 +1,6 @@
+SITEROOT="/var/www/html"
+OWNER_U="www-data"
+OWNER_G="www-data"
+CHOWN="/usr/sbin/chown"
+CHMOD="/bin/chmod"
+FIND="/usr/bin/find"
